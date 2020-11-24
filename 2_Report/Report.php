@@ -72,8 +72,8 @@ $reports = array (
   array("id"=>"1","deviceId"=>223,"location"=>"Helsinki","dateCreated"=>"2020-01-01"),
   array("id"=>"2","deviceId"=>223,"location"=>"Oulu","dateCreated"=>"2020-01-01"),
   array("id"=>"3","deviceId"=>223,"location"=>"Tampere","dateCreated"=>"2019-01-01"),
-  array("id"=>"3","deviceId"=>223,"location"=>"Salo","dateCreated"=>"2019-12-01"),
-  array("id"=>"4","deviceId"=>223,"location"=>"Turku","dateCreated"=>"2020-05-01"),
+  array("id"=>"4","deviceId"=>223,"location"=>"Salo","dateCreated"=>"2019-12-01"),
+  array("id"=>"5","deviceId"=>223,"location"=>"Turku","dateCreated"=>"2020-05-01"),
 );
 
 $Report = new Report(1, 223, "Helsinki", "567");
